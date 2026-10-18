@@ -1,0 +1,18 @@
+state file contain complete information whwhich content?
+
+1-resources content
+
+2-if we create any resources 
+
+3- state file act as a bridge beetween configuration file and remote tracking of resources towards a configuration file to aws cloud
+
+4- when the state file will be created?
+
+--> first time we apply terrFROm apply 
+req go to aws console and then once recouser created the req go to aws create a ec2 instance and this information stored into aws tf state file
+
+
+
+
+
+
