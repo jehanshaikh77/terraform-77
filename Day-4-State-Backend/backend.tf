@@ -4,7 +4,7 @@ terraform {
     key            = "dev/terraform.tfstate"
     region         = "ap-southeast-2"
     encrypt        = true            # Server-side encryption enabled
-    lock_file = true #s3 native locking supported version
+    use_lockfile = true #s3 native locking supported version
     
   }
 }
